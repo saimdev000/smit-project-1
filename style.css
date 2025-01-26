@@ -1,0 +1,71 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.nav-top-bar{
+    width: auto;
+    height: 70px;
+    font-size: 20px;
+    background-color: #eee;
+}
+.top-img-link{
+    margin-left: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+}
+.top-img-link li {
+    margin-left: 30px;
+}
+.btn-lang{
+    margin-left: 900px;
+    padding: 15px 30px ;
+    margin-top: 10px;
+}
+nav{
+    width: auto;
+    height: 60px;
+}
+.img-link{
+    margin-left: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+#logo img{
+    width: 152px;
+    height: 50px;
+}  
+.link-sevr a{
+    text-decoration: none;
+    color: #666;
+    margin-right: 20px;
+}
+.link-sevr button {
+    padding: 15px 30px;
+    color: #fff;
+}
+.link-sevr .btn-1{
+    font-size: 15px;
+    background-color:#0D6DB7 ;
+    border-radius: 8px;
+    border: #0D6DB7;
+}
+.link-sevr .btn-2
+{
+    font-size: 15px;
+    background-color: #8DC63F ;
+    border-radius: 8px;
+    border: #8DC63F;
+}
+.mean-contanir{
+    background-image: url(asscet/carousal_background.d77d94e41c5a71ae581f.png);
+    width: auto;
+    height: 400px;
+    display: flex;
+}
+.mean-bg-img img{
+    width: 600px;
+    height: 550px;
+}
